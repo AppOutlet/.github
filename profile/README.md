@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://appoutlet.dev/media/website/App-Outlet-4.png">
+  <img width="50%" src="https://appoutlet.dev/media/website/App-Outlet-4.png">
 </div>
 
 Welcome to **AppOutlet**! We're a passionate team dedicated to building high-quality applications for both mobile and desktop using **Kotlin Multiplatform**. Our mission is to create seamless, efficient, and innovative software that works across multiple platforms without compromising on performance or user experience.
