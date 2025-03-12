@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="50%" src="https://appoutlet.dev/media/website/App-Outlet-4.png">
+  <img src="https://github.com/user-attachments/assets/70d607cd-6bf6-4973-b223-92e052e81e3f" width="120"/>
 </div>  
 
 # Welcome to **AppOutlet**  
