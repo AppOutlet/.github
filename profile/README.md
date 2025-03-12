@@ -1,32 +1,33 @@
 <div align="center">
   <img width="50%" src="https://appoutlet.dev/media/website/App-Outlet-4.png">
-</div>
+</div>  
 
-Welcome to **AppOutlet**! We're a passionate team dedicated to building high-quality applications for both mobile and desktop using **Kotlin Multiplatform**. Our mission is to create seamless, efficient, and innovative software that works across multiple platforms without compromising on performance or user experience.
+# Welcome to **AppOutlet**  
 
-## What We Do
+We build **high-quality, cross-platform applications and libraries** using **Kotlin Multiplatform (KMP) and Compose Multiplatform**. Our mission is to create seamless, efficient, and innovative software that runs on **Android, iOS, Windows, macOS, and Linux**—all from a **single codebase**, without sacrificing performance or user experience.  
 
-At AppOutlet, we develop high-quality applications and libraries using **Kotlin Multiplatform (KMP)**. We leverage **Kotlin Multiplatform (KMP)** to develop powerful applications that run smoothly on Android, iOS, Windows, macOS, and Linux. By sharing a common codebase while keeping platform-specific optimizations in place, we ensure that our apps are both versatile and optimized for each environment. Our libraries aim to provide developers with robust and reusable solutions to common challenges in cross-platform development.
+## What We Do  
 
-## Our Projects
-We’re currently working on some exciting projects, including:
+At AppOutlet, we develop applications and tools designed to push the boundaries of **cross-platform development**. By leveraging **Kotlin Multiplatform**, we share core logic across platforms while applying **platform-specific optimizations** where needed. Our goal is to provide users with powerful, native-like experiences and give developers **reliable, reusable solutions** for common challenges in multiplatform development.  
 
-| **GameOutlet** | **DisCorkie** |
-|----------------|---------------|
-|[![GameOutlet](https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/src/main/resources/image/icon.png)](https://github.com/AppOutlet/GameOutlet#readme)| [![DisCorkie](https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fdev%2Fappoutlet%2FDisCorkie%2Fa944145d6b25898c2aacff06bc78be43%2Ficons%2F128x128%2Fdev.appoutlet.DisCorkie.png&w=256&q=100)](https://discorkie.appoutlet.dev) |
-| Find the best prices on PC games | Discover Discourse communities seamlessly |
+## Our Projects  
 
-Check them out and let us know what you think!
+We’re working on some exciting projects:  
 
-## Get Involved
+<div align="center">
 
-We're always looking for contributors, and like-minded developers who share our passion for cross-platform development. Whether you're an experienced Kotlin developer or just getting started, feel free to explore our repositories, contribute to our projects, or reach out to us.
+| **GameOutlet** | **DisCorkie** |  
+|:--------------:|:--------------:|  
+| <img src="https://raw.githubusercontent.com/AppOutlet/GameOutlet/main/src/main/resources/image/icon.png" width="128" height="128"> | <img src="https://flathub.org/_next/image?url=https%3A%2F%2Fdl.flathub.org%2Fmedia%2Fdev%2Fappoutlet%2FDisCorkie%2Fa944145d6b25898c2aacff06bc78be43%2Ficons%2F128x128%2Fdev.appoutlet.DisCorkie.png&w=256&q=100" width="120" height="120"> |  
+| [Find the best prices on PC games](https://github.com/AppOutlet/GameOutlet#readme) | [Discover Discourse communities seamlessly](https://discorkie.appoutlet.dev) |  
 
-## Let's Connect
+</div>  
 
-Want to learn more about us and our projects?  
+Check them out and let us know what you think!  
 
-- 💻 Check out our projects on [GitHub](https://github.com/AppOutlet)
-- 🚀 Visit our website: [AppOutlet.dev](https://appoutlet.dev) and Follow our journey and updates
+## Stay Connected  
 
-Thanks for stopping by! Happy coding! 
+🚀 **Explore our projects**: [GitHub](https://github.com/AppOutlet)  
+🌍 **Visit our website**: [AppOutlet.dev](https://appoutlet.dev)  
+
+Thanks for stopping by—**happy coding!**
